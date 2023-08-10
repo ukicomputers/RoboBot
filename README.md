@@ -21,4 +21,4 @@ https://user-images.githubusercontent.com/84191191/157402617-99697e3d-805e-4f7f-
 Code can find in /code folder.
 
 ## Please star this project if you like it!
-(C) By UKI COMPUTERS, 2022
+@ukicomputers
